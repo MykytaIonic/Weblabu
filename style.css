@@ -1,0 +1,283 @@
+.containeri {
+    margin-left:20%;
+    margin-right: 12%;
+    position: relative; 
+    bottom: 195px; 
+    left: 115px; 
+    padding-left:5px;
+}
+
+.container {
+    margin-left:25%;
+    margin-right: 25%;
+}
+
+/*Зображення профілю*/
+.containerzp {
+    margin-left:50%;
+    margin-right: 50%;
+    position: absolute; 
+    top: 77px; 
+    right: 200px; 
+    padding-left:5px;
+}
+
+/*Меню роботи із зображенням*/
+.containermz {
+    margin-left:15%;
+    margin-right: 15%;
+    position: absolute; 
+    width:500px;
+    height:80%;
+    top: 300px; 
+    right: 400px; 
+    padding-left:5px;
+}
+
+/*Зображення*/
+.containerz {
+    margin-left:15%;
+    margin-right: 15%;
+    position: absolute; 
+    width:50px;
+    height:10%;
+    top: 80px; 
+    right: 42%; 
+    padding-left:5px;
+}
+
+/*Логін і пароль*/
+.containerp {
+    margin-left:20%;
+    margin-right: 20%;
+    position: absolute; 
+    top: 80px; 
+    left: 400px; 
+    padding-left:5px;
+}
+
+
+.element {
+    font-family: Century Gothic;
+    font-size: 20px;
+    margin: 5px;
+    font-weight: bold;
+    background-color: slategray;
+    border-style: solid;
+    border-color: gray;
+    border-radius: 10px;
+    box-shadow: none;
+    color: white;
+    text-align: center;
+}
+
+
+.elementd {
+    font-family: Century Gothic;
+    font-size: 20px;
+    margin: 5px;
+    font-weight: bold;
+    background-color: slategray;
+    border-style: solid;
+    border-color: gray;
+    border-radius: 10px;
+    box-shadow: none;
+    color: white;
+    text-align: center;
+    position: relative; 
+    top: 1px; 
+    left: 250px; 
+    padding-left:5px;
+}
+
+
+.elementl {
+    font-family: Century Gothic;
+    font-size: 10px;
+    margin: 10px;
+    font-weight: bold;
+    background-color: white;
+    border-style: solid;
+    border-color: black;
+    box-shadow: none;
+    color: gray;
+    text-align: center;
+    position: relative; 
+    top: 23px; 
+    right: 197px; 
+    padding-left:5px;
+}
+
+.elementp {
+    font-family: Century Gothic;
+    font-size: 10px;
+    margin: 10px;
+    font-weight: bold;
+    background-color: white;
+    border-style: solid;
+    border-color: black;
+    box-shadow: none;
+    color: gray;
+    text-align: center;
+    position: relative; 
+    bottom: 32px; 
+    left: 30px; 
+    padding-left:5px;
+}
+
+.elementy {
+    font-family: Century Gothic;
+    font-size: 15px;
+    margin: 10px;
+    font-weight: bold;
+    background-color: blue;
+    border-style: solid;
+    border-color: lightblue;
+    box-shadow: none;
+    border-radius: 90px;
+    color: white;
+    text-align: center;
+    position: relative; 
+    bottom: 73px; 
+    left: 280px; 
+    padding-left:5px;
+}
+
+.elementz {
+    font-family: Century Gothic;
+    font-size: 15px;
+    margin: 10px;
+    font-weight: bold;
+    background-color: blue;
+    border-style: solid;
+    border-color: lightblue;
+    box-shadow: none;
+    color: white;
+    text-align: center;
+    border-radius: 90px;
+    position: relative; 
+    bottom: 73px; 
+    left: 280px; 
+    padding-left:5px;
+}
+
+.maintext {
+    font-family: Century Gothic;
+    font-size: 20px;
+    font-weight: bold;
+    margin: 5px;
+}
+
+.maintextl {
+    font-family: Courier New;
+    font-size: 15px;
+    font-weight: bold;
+    margin: 10px;
+    position: relative; 
+    top: 27px; 
+    right: 255px; 
+    padding-left:5px;
+
+}
+
+.maintextp {
+    font-family: Courier New;
+    font-size: 15px;
+    font-weight: bold;
+    margin: 10px;
+    position: relative; 
+    bottom: 28px; 
+    right: 20px; 
+    padding-left:5px;
+
+}
+
+.titletext {
+    font-family: Century Gothic;
+    font-size: 36px;
+    font-weight: bold;
+    margin: 5px;
+}
+
+.titletexti {
+    font-family: Bradley Hand, cursive;
+    color:black;
+    font-size: 30px;
+    font-weight: 600;
+    font-stretch: condensed;
+    position: relative; 
+    top: 90px; 
+    right: 430px; 
+    padding-left:5px;
+}
+
+.titletextp {
+    font-family: Bradley Hand, cursive;
+    color:black;
+    font-size: 30px;
+    font-weight: bold;
+    margin: 5px;
+    position: absolute; 
+    top: 23px; 
+    right: 950px; 
+    padding-left:5px;
+}
+
+.titletextpu {
+    font-family: Bradley Hand, cursive;
+    color:black;
+    font-size: 25px;
+    font-weight: bold;
+    margin: 5px;
+    position: absolute; 
+    top: 25px; 
+    right: 750px; 
+    padding-left:5px;
+}
+
+.bg {
+    border-style: solid;
+    border-color:lightblue;
+    background-color: lightblue;
+    margin: 25px;
+}
+
+.bga {
+    border-style: solid;
+    background-color: #B0C4DE;
+    margin: 25px;
+    border-color:#B0C4DE;
+}
+
+.header {
+    background-color: lightgray;
+    margin: 25px;
+    border-radius: 10px;
+}
+
+.headeri {
+    height: 190px;
+    background-color: lightblue;
+    margin: 10px;
+    border-radius: 90px;
+}
+
+.headerp {
+    background-color: #B0C4DE;
+    margin: 25px;
+    border-radius: 10px;
+}
+
+input[type="file"] {
+    display: none;
+}
+
+table {
+    border-collapse: collapse;
+    border-left: 1px solid lightgray; 
+    border-right: 1px solid lightgray; 
+}
+
+body {
+    background:  #E6E6FA;
+}
